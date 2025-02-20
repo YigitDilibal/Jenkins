@@ -46,5 +46,6 @@ public class JenkinsTest {
 	}
 
 	//yigittest
+	//Test2 added
 
 }
