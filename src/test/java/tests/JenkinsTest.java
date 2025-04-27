@@ -54,6 +54,11 @@ public class JenkinsTest {
 		assertTrue(true);
 	}
 
+	@Test
+	void Test13(){
+		assertTrue(true);
+	}
+
 
 	//yigittest
 	//Test2 added
